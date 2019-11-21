@@ -27,7 +27,7 @@ public class AppTest {
 	    {
 	        assertTrue( true );
 	    }
-	/* @Test
+	 @Test
 		public void test1() {
 			assertNotEquals("Hello world ", app.greet("world"));
 		}
@@ -36,5 +36,5 @@ public class AppTest {
 	    public void test1False()
 	    {
 	        assertFalse( false );
-	    }*/
+	    }
 }
